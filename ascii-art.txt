@@ -1,0 +1,44 @@
+
+       Y#BBBB#BP?^               ..                                  .                              
+       YBGBBBBB###P?:             ..                                                                
+       JBBBBGGGB####B5!            ..                              ..                               
+       ^GGGGBGGGGGBBBB#G7:          :.                                                 :~?Y5PPY!    
+        !GPPGGBBBBBBBBBB#BY~.        ^                            .                :!JP#&&&&&&&#:   
+         JPPPPPPGGBBBBBBBGGG5J!^:..::~~..                        ..            .^?PB&&&&&#####&P    
+         ~P5PPPPPGGGPGGGP5555555J7!!!?YYJ7!~^^:::..  .. ......:~~!:.        :!JG#&&&&&#####BB#&!    
+          7555555555PP555555JJY5JJJ7??YYJJJJ?7777!!~~~~!~~~!!7?YPG5?7~^^^7J5B####&&&&#####BB#B!     
+          .JP5PP555P5P5PP555YJYYYYYJYJY5J77!!!777!!^~!!!!~!!7J?Y55PP5J5PGB################B##~      
+           :JYY555PP5555YYYYYYJJJ5YYYY5PYY?!!7??77!^~!7!!~!?555GPPBGGBBGBBB########BBB###&#&J       
+            .JYYY55P55555YYYYYYYYJY55P5P55?77???77~~~!!77!75GGBBGGBGGBGBBBBBBB###BB###B###&P~       
+             ~JJJJJJJYYYYYJJJJJYPYYPPPYYY5Y?????7!~^!77??J5PGGBGGBGGGBBBB#B###############J.        
+             .77?JJJ?JJJJJJJJ?JY5P5555J??55J77??7~^~!77JYGBGPGBB#BBBGBBB#B###B#########&#P^         
+              ^77??JJJJJYYYYYJYYPPGPYJ?!?5PYJ?JJ7~^~!7?YGB#G5PGB##BBGBBB#B#BB########&&B!:.         
+             .^!7JJJJJYYYYYY55555GGPY?77J5GG5JYY?!~!77JGB##PYY5PB#BBGBBBBBBB#######&###7~:          
+          .:~!7?JJJJJJYYY555PPPPPPGG5?7!J5PGG5YPY7!YJJPB###GYJYPB#BGBBBBBBBB##B####&##?             
+         .~777?JJJJYYYYY55PGPPPP5PBBG5?7YPGPPGPGPY7YP5PB###GJJYG#BBBBBBBBBBBBB#B####B7              
+        :~777?JYYYYYYYYYYYJ77777!!7?Y5P5PPP5Y5PGGPJYBGPGBBBB5PB##BBBBBB#BBBBBBBBB###B?~.            
+       .~77??JJJYYYY555YJJ~~YJ?7~~?J?7!?5PPY??YPGP5PBBGB#####GPYJ?JYY555GBBBBBBGBBBBBBBP!           
+       :!77???JJJYYY555555~?5?!!~^5GP5?^~YP5??Y5GGPGBBB#&&&GY5Y?J?75PGGY7JPGGGGGGBB#BGBBG!          
+       :!777???J???J55PPPGJ~JJ7!~~55YYJ^.?P5JJJYYGGBB##&&&G~YBYJY?!PB##B77P5PPGGBBBBBBBBBP~         
+      .~!777???777JJY55PPGG577?7!7??7!^.:!5Y??77?YPPGB#&&BJ:7P5JY??PPGP?~5BGPPPPPGGBBBBBBBJ:        
+     .:~!!!!777777??JJYJYYJYYJ?777777??7!~77~~~~!?JY5PG##G5J7?JJ?777777?PBGPPPPPPPGGBBBBBB5^        
+     .^~!!7!!7?777??JJJ??JJ??????7JY55J?!^^^:^^~7???JJY5PY5GBG5J7!77?JY5555PPPPPPPPGGGGBBBP!.       
+     .^~!!777?????JJJJJJJJJJYYJJJJJYYJ?!~~~^:~7JJJJJJ??5YYYYPP5J??JYYYJYY5PPGGGGGGGGGGGBBBG?:       
+    ..^~!!77?JJJJJYYYYYJYYY555Y55555YJ????7~~7JYYJJY5YYGBG55YYYY5P55PPPPPGGGBBBBGGGGGGGGBBG?:..     
+    ..^!!!7?JYY55555555Y5555PPPPP55Y5YYYY5J7!~!JYY5JJPGB###BGGPPGGBGGGGBBBBBBBBB##BBGGBBBBP7.       
+    ::^!7??JY5555555PPP5555PPPGP5YJ???JJ5PPP5?~7YP5JPGB####BBBBGGBB#BBBB###########BBGGGBGY~..      
+     .:!?JYY5555PPPPPPP555PPPPP55YY5YY555PPGGGPYJYGB##&&&&##BBGGGBB##BBB########&&###BBGGP7^..      
+       ^7?JYYY555PPP55P555PGPP55PP5PPPPPPGGGBB##Y5B#&&&&&#######&####&&&&&##&&#######&#BGY!:..      
+        ~?YY55PPPPGBGGGGGPPGGPPPPPPPGGGGGGBGB#BBPPGB#####&&###&##&&#&&&&&&&#############G?:..::.    
+        .!J55PGGGBBBBBBBGGGPPPGGPPGGGGBBBBB#BBGP5PPGGB########&##&&&&&&&&&&&##&&#######GJ^.         
+         :7JY5PGGBBBBBBBBBGGGGGGGGGGBBB###GPPGGGGBBBGGGGB#######&#&&&&&&&&&&&&&&&&####GJ~.          
+         .~7?JY5GGGBBBB#BBBBGGGGGGGGBBBBGGPGBBB#BB#####BB####&&&&&&&&&&&&&&&&&&&&&&##GY~:           
+          ^!!!7J5PGGBBBBBBBBBBBBGGGGGGGGGGBBBBB#BB####&&&&&&&&&&&&&&&&&&&&&&&&&&&###BGJ^.           
+          :!77??Y5PPGGBBBBBBBBBBBBBBBBBBBBB#BB######&#&&&&&@@@&@@&&&&&&&&&&&&&&&&###G?:             
+           ^??JJJJJY5PGGBBBBBBBB##################&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&B?.               
+            ^!7??7777?J55GGGBBB#################&&&&&&&&&###&&&&&&&&&&&&&&&&&&&&GJ^                 
+              .~7JJJJY5PPPPPGGB#BB########&##&&#####&&&&&&&&&&#&&&&&&&@@@@@@@#Y~.                   
+                .~?Y5PPPPPPPPGGGGGBBBB##############&&&&&&&&&&&&&&&&@@@@@@@#?:                      
+                   .:~!!7JY5PGGGGGBBBBB###########&&&&&&&&&&&&@@@@@@@&&#BP7:                        
+                           .:!?5PGBBBBB#######&&&&&&&&&&&&&##BBBBGY?!^:..                           
+                               .^!JYYYYJ??JY555Y??7!!77?7~^:....                                    
